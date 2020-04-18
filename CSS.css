@@ -1,0 +1,124 @@
+html {
+    height: 100%;
+  }
+
+body{
+    background-image: url("https://france3-regions.francetvinfo.fr/normandie/sites/regions_france3/files/styles/top_big/public/assets/images/2020/03/09/maxnewsfrfour417162-4684378.jpg?itok=N4hBsMhN"); 
+    background-size: cover;
+    } 
+#global {
+    min-height: 100%;
+    color: white;
+    width: 50%;
+    margin: 10px auto;
+    padding: 0 10px 10px 10px; 
+   }  
+
+h1 {
+    font-size: 60px;
+    color: white;
+    text-align: center;
+    border: 15px solid black;
+    background-color: black;
+    font-family: Impact ;
+}
+
+.premier{
+    font-size: 20px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif ;
+    text-align: center;
+}
+
+.titrepartie{    
+    font-size: 25px;
+    text-align: center;
+    color: rgba(112, 112, 112,);
+    border: 3px solid black;
+    background-color: black;
+    font-family: Impact ;
+
+}
+
+footer {
+    font-size: 30px;
+    text-align: center;
+    position: fixed; 
+    bottom: 0; left: 0; right: 0;
+    background-color: rgb(114, 114, 114);
+    opacity: 0.75;
+    font-family: Impact ;
+}
+.image1{
+    float: right;
+    width:350px;
+    height:250px;  
+}
+
+.image2{
+    float: left;
+    width:350px;
+    height:250px;
+}
+
+.image3{
+    width:325px;
+    height:225px;  
+}
+
+.image4{
+    float: left;
+    width:200px;
+    height:100px;  
+}
+
+.image5{
+    width:325px;
+    height:225px;  
+}
+
+.image6{
+    width:325px;
+    height:225px;  
+}
+
+#paragraphe{
+    border: 3px solid black;
+    background-color: rgba(112, 112, 112, 0.81);   
+}
+
+.icon{
+    width:37px;
+    height:37px;
+  
+}
+
+.video{
+    display:block;width:480px;margin:0 auto 35px auto
+}
+
+.graph1{
+    background-color: white;
+    float:left;
+    width:680px;
+    
+}
+.graph2{
+    background-color: white;
+    float:right;
+    width:680px;
+    
+}
+
+.graph3{
+    background-color: white;
+    float:left;
+    width:680px;
+    
+}
+.graph4{
+    background-color: white;
+    float: right;
+    width:680px;
+    
+}
